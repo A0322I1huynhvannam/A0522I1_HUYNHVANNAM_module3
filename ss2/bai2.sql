@@ -36,4 +36,4 @@ create table OrderDetail(
     primary key(oID,pID)
 );
 insert into OrderDetail(oID,pID,odQTY)
-value(2,2,350)
+value(1,2,20)
